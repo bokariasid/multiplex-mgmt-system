@@ -1,3 +1,6 @@
+## To run the project - 
+* npm install
+* npm start
 ## DB to be used 
 * Mysql will be most preferred (gives join capabilities and sorting is made easy. Search capability also improves)
 * For time constraint we can use mongodb for now.
